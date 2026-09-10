@@ -47,8 +47,4 @@ npm run dev
 
 - Real-time continuous email monitoring and automated threat detection
 - Expanded threat-intelligence and campaign correlation using larger external datasets
-- Advanced forensic capabilities such as deeper malware/attachment analysis and broader infrastructure attribution
-
-## License
-
-MIT — see [LICENSE](./LICENSE)
+- Advanced forensic capabilities such as deeper malware/attachment analysis and broader infrastructure attribution.
