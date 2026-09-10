@@ -47,10 +47,6 @@ npm install
 npm run dev
 ```
 
-## Environment Variables
-
-See `.env.example` for the full list of required variables.
-
 ## Future Scope
 
 - Real-time continuous email monitoring and automated threat detection
