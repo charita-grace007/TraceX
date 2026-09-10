@@ -51,19 +51,6 @@ npm run dev
 
 See `.env.example` for the full list of required variables.
 
-## Screenshots
-
-[add after this]
-
-## Team
-
-Hassaan Mohiuddin
-M. Mohana
-M. Charita Grace
-Ahmedi
-Sheema Fatima
-J. Srishanth
-
 ## Future Scope
 
 - Real-time continuous email monitoring and automated threat detection
