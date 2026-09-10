@@ -33,10 +33,6 @@ TRACE-X is an evidence-driven email investigation and campaign-intelligence plat
 
 > **Note on architecture:** the original proposal specified a FastAPI backend. During implementation this was adapted to a Node/Express backend for a more cohesive, deployment-friendly full-stack prototype, with Python used specifically for the ML classifier component.
 
-## Architecture
-
-[diagram coming soon]
-
 ## Setup Instructions
 
 ```bash
