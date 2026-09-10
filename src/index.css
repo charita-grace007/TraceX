@@ -1,0 +1,34 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Carme", sans-serif;
+  --color-brand-purple: #2E1C4D;
+  --color-brand-muted: #6A5A82;
+  --color-brand-accent: #7C3AED;
+}
+
+body {
+  font-family: "Carme", sans-serif;
+  color: #2E1C4D;
+  background-color: #FDF8F5;
+}
+
+/* Custom soft pastel scrollbar */
+::-webkit-scrollbar {
+  width: 7px;
+  height: 7px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(240, 235, 245, 0.6);
+  border-radius: 9999px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(180, 160, 210, 0.45);
+  border-radius: 9999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(150, 130, 190, 0.65);
+}

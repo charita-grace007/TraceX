@@ -1,0 +1,69 @@
+{
+  "version": "1.0.0",
+  "samples": [
+    {
+      "text": "Your Microsoft 365 organization credential expires in 2 hours. Click below to verify identity and retain your existing login credentials to prevent account lockout. http://secure-office365-session.info/auth/v2/session-renew",
+      "label": 1
+    },
+    {
+      "text": "Please process the attached RTGS authorization of INR 4,85,00,000 for the ongoing vendor restructuring. Keep this confidential until regulatory filing at 11:00 AM.",
+      "label": 1
+    },
+    {
+      "text": "Please find attached the signed bill of lading and customs entry documents. Enable macros if security prompt appears to view embedded tracking barcode. Urgent delivery status pending.",
+      "label": 1
+    },
+    {
+      "text": "Please purchase fifty digital store vouchers of INR 10,000 each from the designated vendor registry immediately for upcoming foreign diplomatic visit. Do not mention this to colleagues.",
+      "label": 1
+    },
+    {
+      "text": "Your Amazon Web Services invoice for August 2026 is now available. Log in securely to AWS Management Console to review your breakdown.",
+      "label": 1
+    },
+    {
+      "text": "URGENT: Your bank account has been suspended due to suspicious activity. Click here to verify your identity and restore access immediately to avoid permanent deactivation.",
+      "label": 1
+    },
+    {
+      "text": "Dear customer, your Netflix subscription payment failed. Please update your billing details within 24 hours to keep watching uninterrupted. Update your payment info here.",
+      "label": 1
+    },
+    {
+      "text": "Security Alert: A new login was detected from a new device in Moscow, Russia. If this wasn't you, please secure your account immediately by clicking the password recovery link.",
+      "label": 1
+    },
+    {
+      "text": "Hi team, let's schedule a brief sync tomorrow at 10 AM to discuss the upcoming Q4 product roadmap and review the design proposals. Please let me know if you are available.",
+      "label": 0
+    },
+    {
+      "text": "Thanks for the feedback on the pull request. I have addressed the linting issues and updated the unit tests. Ready for a final review before merging.",
+      "label": 0
+    },
+    {
+      "text": "Hi Jane, attached is the monthly expense report for your review and approval. Please let me know if you have any questions or need further breakdown.",
+      "label": 0
+    },
+    {
+      "text": "Hi all, the engineering team is planning a system maintenance window this Saturday between 2 AM and 4 AM UTC. Core services may experience brief latency. Thank you for your patience.",
+      "label": 0
+    },
+    {
+      "text": "Hi, just a reminder that our weekly team lunch is scheduled for tomorrow at the usual place. Looking forward to catching up with everyone!",
+      "label": 0
+    },
+    {
+      "text": "Hello, thank you for subscribing to our newsletter. You will receive weekly updates about product launches, engineering articles, and corporate events.",
+      "label": 0
+    },
+    {
+      "text": "Hi John, can you please send me the updated slides for the board meeting presentation? Need to review them before sharing with the leadership team tonight. Thanks!",
+      "label": 0
+    },
+    {
+      "text": "Dear employee, the annual performance review cycle is now open. Please complete your self-evaluation inside the HR portal by the end of next week.",
+      "label": 0
+    }
+  ]
+}

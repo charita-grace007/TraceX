@@ -1,0 +1,6 @@
+{
+  "name": "TRACE-X",
+  "description": "Evidence-driven email threat detection, relay-path forensic intelligence, campaign correlation, and SOC investigation platform for SIH26106.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
